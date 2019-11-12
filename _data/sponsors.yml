@@ -1,7 +1,7 @@
 Sopra:
   url: http://www.soprasteria.com/fr
   logo: /assets/images/subvention/logo-sopra-steria.png
-  premium:
+  premium: false
 IPLeanware:
   url: http://www.ipleanware.com/
   logo: /assets/images/subvention/logo-ipleanware.png
@@ -13,35 +13,35 @@ Braincube:
 SERLI:
   url: http://www.serli.com/
   logo: /assets/images/subvention/logo-serli.png
-  premium: 
+  premium: false
 CGI:
   url: http://www.cgi.fr/
   logo: /assets/images/subvention/logo-cgi.png
-  premium: true
+  premium: false
 almerys:
   url: http://www.almerys.com/
   logo: /assets/images/subvention/logo-almerys.jpg
-  premium: 
+  premium: false
 SearchXPR:
   url: http://www.searchxpr.com/
   logo: /assets/images/subvention/logo-searchxpr.png
-  premium: 
+  premium: false
 Lojelis:
   url: http://www.lojelis.com/
   logo: /assets/images/subvention/logo-lojelis.png
-  premium: 
+  premium: false
 Logica:
   url: http://www.cgi.fr/
   logo: /assets/images/subvention/logo-logica.jpg
-  premium: 
+  premium: false
 Capgemini:
   url: https://www.fr.capgemini.com/
   logo: /assets/images/subvention/logo-capgemini.jpg
-  premium: 
+  premium: false
 CreativeData:
   url: https://www.creativedata.fr/ 
   logo: /assets/images/subvention/logo-creativedata.png
-  premium: 
+  premium: false
 DevoxxFR:
   url: https://www.devoxx.fr/
   logo: /assets/images/subvention/logo-devoxxfr.png
@@ -70,3 +70,7 @@ coffreo:
   url: https://www.coffreo.com/
   logo: /assets/images/subvention/logo-coffreo.png
   premium: false
+inside:
+  url: https://insidegroup.fr/
+  logo: /assets/images/subvention/logo-inside.png
+  premium: true
