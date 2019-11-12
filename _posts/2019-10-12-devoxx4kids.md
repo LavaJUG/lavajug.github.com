@@ -3,7 +3,7 @@
 layout: event
 title: "Devoxx4Kids - Clermont Ferrand"
 date:   2019-10-12
-pending: true
+pending: false
 eventbriteId: 
 youtubeId: 
 flickrId:
