@@ -5,7 +5,7 @@ title: "Live coding d'un smart contract Ethereum"
 date:   2018-12-06
 pending: false
 eventbriteId: 52958101106
-youtubeId:
+youtubeId: https://www.youtube.com/embed/gLTk9182ais
 flickrId:
 sponsors:
  - CGI

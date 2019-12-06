@@ -5,7 +5,7 @@ title: "Deus Ex Machina"
 date:   2019-09-26
 pending: false
 eventbriteId: 72089819591
-youtubeId: 
+youtubeId: https://www.youtube.com/embed/yYrUxZ2z8UY
 flickrId:
 sponsors:
  - Braincube
