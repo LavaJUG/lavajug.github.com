@@ -3,7 +3,7 @@
 layout: event
 title: "Au delà des couleurs, des interfaces adaptées au daltonisme"
 date:   2019-12-12
-pending: true
+pending: false
 eventbriteId: 84588884631
 youtubeId: 
 flickrId:
