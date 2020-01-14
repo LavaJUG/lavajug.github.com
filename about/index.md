@@ -66,3 +66,9 @@ En tant quʼéditeur, vous souhaitez présenter une technologie et/ou une soluti
 ## Boutique
 
 Une boutique est disponible pour acheter vos goodies aux couleurs du LavaJUG : [La boutique du LavaJUG](https://shop.spreadshirt.fr/lavajug/).
+
+## Code of conduct
+
+Nos événements sont organisés pour vous proposer une expérience ouverte, libre et sans harcèlement quelqu’il soit, pour chacun, quelque soit son genre, son orientation sexuelle, ses capacités physiques, sa race, sa religion, ou son handicap.
+
+Nous ne tolérons pas de harcèlement de nos participants, quelqu’en soit la forme. Un langage explicite ou des images non appropriées ne sont pas tolérés lors des événements du Lava Jug, ceci incluant les présentations des orateurs, ainsi que Twitter, ou tout autre média. Les participants et les orateurs qui ne respectent pas ces règles pourront être sanctionnés ou exclus des événements, sans que cela ne donne droit à un quelconque remboursement de la part des organisateurs.
