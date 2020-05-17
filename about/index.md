@@ -11,7 +11,7 @@ Ces réunions sont aussi lʼoccasion pour les membres du Lava JUG de se rencontr
 
 ## L'association
 
-Lava JUG est une association loi 1901 créée le 09 mais 2011 à Clermont-Ferrand. Le siège social de l’association est situé 40 Boulevard Arisitide Briand 63000 Clermont-Ferrand.
+Lava JUG est une association loi 1901 créée le 09 mais 2011 à Clermont-Ferrand. Le siège social de l’association est situé 4 rue Jean Deschamps 63000 Clermont-Ferrand.
 
 ### Bureau 
 
