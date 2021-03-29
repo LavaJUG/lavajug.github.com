@@ -37,30 +37,42 @@ title: Bienvenue au Lava JUG
                       <div class="clearfix"></div>
                   </div>
                   <div class="content">
+
+                          {% if post.online == true %}
+                          <div id="bigmarker-conference-widget-container1a93643802fb" style="margin: 1em auto;width: 320px;"></div>
+                          <script src="https://www.bigmarker.com/widget/register_widget.js?club=lavajug&conference=1a93643802fb&widget_type=image_register&series_register=&upcoming_sub_title=&live_sub_title=&rec_sub_title=&upcoming_button_text=&live_button_text=&rec_button_text=&link_to_channel=true&widget_width=&widget_height=&enable_iframe=true&background_color=ffffff&btext_color=2d374d&link_color=94C11F&ltext_color=ffffff&redirect_to_confirmation_page=false&widget_button_registered_content=&cid=37507b594850" type="text/javascript"></script>
+                          {% endif %}
+
                           {{ post.content }}
                           <br/>             
                           {% if post.sponsors.size > 0 %}           
                           <h4>Sponsors</h4>
+                          {% if post.online == true %}
+                          <p>Cette soirée n'aurait pas pu avoir lieu sans le support de nos sponsors. Merci à eux!</p>
+                          {% else %}
                           <p>Comme d'habitude la soirée se clôturera par un buffet gracieusement offert par nos sponsors afin de poursuivre les échanges dans un cadre plus informel.</p>
+                          {% endif %}
                           <div class="sponsors">
                           {% for sponsor in post.sponsors %}
                               <a href="{{site.data.sponsors[sponsor].url}}" target="_blank"><img src="{{site.data.sponsors[sponsor].logo}}" alt="{{sponsor}}" ></a>
                           {% endfor%}
                           </div>
                           {% endif %}
-			  {% if post.location  %}
+			              {% if post.location  %}
                           <h4>Comment venir</h4>
                           <div>
                             {% assign room = site.data.rooms[post.location] %}
                             {% include room.html %}
                           </div>
-			  {% endif %}
+			              {% endif %}
                           {% if post.eventbriteId  %}
                           <br/>
                           <h4>Inscription</h4>                            
                           <br/>
                           <iframe src="https://www.eventbrite.com/tickets-external?eid={{ post.eventbriteId }}&amp;ref=etckt" class="eventbrite"></iframe>
                           {% endif %}
+
+
                   </div>
                 </section>
             {% endif %}

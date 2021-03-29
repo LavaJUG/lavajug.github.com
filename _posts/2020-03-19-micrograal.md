@@ -3,7 +3,7 @@
 layout: event
 title: "Micronaut et GraalVM"
 date:   2020-03-19
-pending: true
+pending: false
 eventbriteId: 99086724059
 youtubeId: 
 flickrId:
