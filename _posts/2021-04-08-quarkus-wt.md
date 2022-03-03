@@ -3,7 +3,7 @@
 layout: event
 title: "Quarkus World Tour"
 date:   2021-04-08
-pending: true
+pending: false
 eventbriteId:
 online: true 
 youtubeId: 
