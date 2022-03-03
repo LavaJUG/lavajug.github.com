@@ -17,6 +17,8 @@ location: be-ys
 
 ---
 
+Note: En fonction des directives sanitaires l'accès à la conférence pourra être soumis à la possession d'un passe sanitaire/vaccinal et le port du masque obligatoire.
+
 # Retex : comment rendre service a ses collègues tout en faisant de la veille
 
 
