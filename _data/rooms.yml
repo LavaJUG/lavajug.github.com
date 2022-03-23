@@ -31,3 +31,8 @@ turing22:
   longitude: 3.130117
   image: /assets/images/turing22.jpg
   description: "L'événement aura lieu dans l'Amphi Turing 22, 22 Allée Alan Turing, 63000 Clermont-Ferrand."
+coffreo:
+  latitude: 45.7571056
+  longitude: 3.1338353
+  image:
+  description: "L'événement aura lieu chez Coffréo, 9 Allée Alan Turing, 63170 Aubière."

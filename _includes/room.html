@@ -28,5 +28,7 @@ L.marker([{{ room.latitude }}, {{ room.longitude }}]).addTo(map);
 
 //]]></script>
 <br/><br/><br/>
+{% if  room.image %}
 <p><img src="{{ room.image }}" class="location_picture" alt="{{room.image}}"></p>
+{% endif %}
 
