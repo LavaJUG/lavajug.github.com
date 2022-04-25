@@ -13,7 +13,7 @@ sponsors:
  - be-ys
  - harvest
  - inside
-location: turing22
+location: turing22ws
 
 ---
 
