@@ -3,7 +3,7 @@
 layout: event
 title: "Retex : comment rendre service a ses collègues tout en faisant de la veille"
 date:   2022-03-24
-pending: true
+pending: false
 eventbriteId: 290875064147
 online: false 
 youtubeId: 
