@@ -48,7 +48,7 @@ DevoxxFR:
   premium: false
 be-ys:
   url: https://www.be-ys.com/
-  logo: /assets/images/subvention/logo-beys.png
+  logo: /assets/images/subvention/logo-be-ys.png
   premium: true
 bivouac:
   url: https://www.lebivouac.com/
