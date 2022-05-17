@@ -195,6 +195,7 @@ section.block .heading {
 		margin-top: 5px;
 		margin-right: 40px;
 		margin-bottom: 5px;
+		vertical-align: middle;
 }
 .sponsors img {
 		width: 120px;
