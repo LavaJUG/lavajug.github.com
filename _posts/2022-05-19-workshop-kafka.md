@@ -3,7 +3,7 @@
 layout: event
 title: "Workshop Kafka Streams 101"
 date:   2022-05-19
-pending: true
+pending: false
 eventbriteId: 327513721357
 online: false 
 youtubeId: 
