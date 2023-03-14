@@ -3,7 +3,7 @@
 layout: event
 title: "Comment développer son impact en tant que senior Dev"
 date:   2023-01-19
-pending: true
+pending: false
 eventbriteId: 507896160087
 online: false 
 youtubeId: 
