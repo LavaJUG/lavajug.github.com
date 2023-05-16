@@ -3,7 +3,7 @@
 layout: event
 title: "Observabilité, au-delà des logs et métriques, place aux traces avec OpenTelemetry"
 date:   2023-03-30
-pending: true
+pending: false
 eventbriteId: 588444712977
 online: false 
 youtubeId: 
