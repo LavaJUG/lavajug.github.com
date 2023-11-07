@@ -57,7 +57,7 @@ bivouac:
 harvest:
   url: https://www.harvest.fr/
   logo: /assets/images/subvention/logo-harvest.png
-  premium: true
+  premium: false
 clermontech:
   url: https://www.clermontech.org/
   logo: /assets/images/subvention/logo-clermontech.png
@@ -73,4 +73,4 @@ coffreo:
 inside:
   url: https://insidegroup.fr/
   logo: /assets/images/subvention/logo-inside.png
-  premium: true
+  premium: false
