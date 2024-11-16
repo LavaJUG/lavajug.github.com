@@ -3,7 +3,7 @@
 layout: event
 title: "Retex d’un codeur pour la blockchain, des grosses données, du java parallèle moche, du bare-metal et de la securité."
 date:   2024-05-30
-pending: true
+pending: false
 eventbriteId: 907824757287
 online: false 
 youtubeId: 
