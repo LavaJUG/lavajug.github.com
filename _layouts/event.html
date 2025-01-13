@@ -48,8 +48,9 @@
                           {% if page.eventbriteId  %}
                           <br/>
                           <h4>Inscription</h4>
-                          <br/>
-                          <iframe src="https://www.eventbrite.com/tickets-external?eid={{ page.eventbriteId }}&amp;ref=etckt" class="eventbrite"></iframe>
+                          <div class="ml">
+                            <a href="https://www.eventbrite.fr/e/{{ page.eventbriteId }}" class="btn btn-default">S'inscrire ici</a>
+                          </div>
                           {% endif %}
 
 
