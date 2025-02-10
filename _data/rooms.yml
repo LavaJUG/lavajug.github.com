@@ -41,3 +41,8 @@ coffreo:
   longitude: 3.1338353
   image:
   description: "L'événement aura lieu chez Coffréo, 9 Allée Alan Turing, 63170 Aubière."
+a-venir:
+  latitude: 45.7761277
+  longitude: 3.0797471
+  image:
+  description: "Nous vous communiquerons prochainement le lieux de l'événement."

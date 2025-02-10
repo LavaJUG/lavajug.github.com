@@ -3,7 +3,7 @@
 layout: event
 title: "3 usages concret de l'IA pour créer un meilleur produit"
 date:   2025-01-23
-pending: true
+pending: false
 eventbriteId: 1151082321209
 online: false
 youtubeId: 
