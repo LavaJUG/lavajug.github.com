@@ -3,7 +3,7 @@
 layout: event
 title: "Construisons un chatbot privé avec RAG, ElasticSearch et LLM"
 date:   2025-03-27
-pending: true
+pending: false
 eventbriteId: 1295518032309
 online: false
 youtubeId: 
