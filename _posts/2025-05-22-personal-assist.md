@@ -3,7 +3,7 @@
 layout: event
 title: "Crée ton assistant personnel avec Picocli et LangChain4J"
 date:   2025-05-22
-pending: true
+pending: false
 eventbriteId: 1362615823609
 online: false
 youtubeId: 
