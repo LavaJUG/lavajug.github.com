@@ -3,7 +3,7 @@
 layout: event
 title: "Quand une carte réseau vous emmène jusque dans les profondeurs de Linux - Découvrez les spéléologues du Kernel"
 date:   2025-09-25
-pending: true
+pending: false
 eventbriteId: 1672500226199
 online: false
 youtubeId: 
