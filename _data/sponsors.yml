@@ -78,3 +78,7 @@ zenika:
   url: https://www.zenika.com/
   logo: /assets/images/subvention/logo-zenika.png
   premium: false  
+be-ys-cloud:
+  url: https://www.be-ys.cloud/
+  logo: /assets/images/subvention/logo-be-ys-cloud.png
+  premium: true  
